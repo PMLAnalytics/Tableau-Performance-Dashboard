@@ -1,4 +1,5 @@
-# Tableau-Performance-Dashboard
-# Tableau-Regional-Dashboard
+# Tableau-Performance-and-Regional-Dashboards
 
-An assortment of various charts and visuals
+
+An assortment of various charts and visuals. 
+Please open Tableau-Performance-Dashboard.twbx
